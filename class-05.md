@@ -1,7 +1,7 @@
 # Reading 5 notes
 What is a real world use case for the alt attribute being used in a website?
 
-It's used to add to accesisibility with the visually impaired.
+It's used to add to accessibility with the visually impaired.
 
 How can you improve accessibility of images in an HTML document?
 
