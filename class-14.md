@@ -24,7 +24,7 @@ How this topic fit in with your long-term goals?
 
 # Reading 14 (b) summarization
 
-This article pointed out h
+This article pointed out how allowing each member of a team to participate and talk inhances the intelligence of everyone in the team. It also highlights how despite the fact that every memeber of a team 
 
 
 
